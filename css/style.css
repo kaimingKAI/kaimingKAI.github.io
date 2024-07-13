@@ -959,14 +959,6 @@
   color: inherit;
   position: relative;
 }
-.nav-right .title-list nav a#top:before,
-.nav-right .title-list #local-search-result a#top:before {
-  content: "\f08d";
-}
-.nav-right .title-list nav a.hover:before,
-.nav-right .title-list #local-search-result a.hover:before {
-  animation: wobble 1s linear;
-}
 .nav-right .title-list nav a .post-title,
 .nav-right .title-list #local-search-result a .post-title {
   width: -webkit-calc(100% - 155px);
